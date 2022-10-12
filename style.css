@@ -1,0 +1,112 @@
+* {
+  text-align: center;
+  list-style: none;
+}
+
+.hp-img {
+  width: 600px;
+  height: 600px;
+  padding: 0px 10px;
+}
+
+.homepage-title {
+  font-size: 50px;
+  text-align: center;
+}
+
+.title-recipes li {
+  font-size: 30px;
+  display: inline-block;
+  padding: 0px 10px;
+  position: relative;
+  top: 40px;
+  right: 23px;
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: left;
+  margin-left: 100px;
+}
+
+.food-img {
+  width: 500px;
+  height: 500px;
+  position: relative;
+  right: 550px;
+}
+
+h3 {
+  text-align: left;
+  margin-left: 100px;
+  font-weight: 100;
+  font-size: 20px;
+  position: relative;
+  bottom: 40px;
+  width: 900px;
+}
+
+.title-pages li {
+  font-size: 20px;
+  display: inline;
+  padding: 0px 10px;
+  position: relative;
+  left: 20px;
+  bottom: 65px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.ingredients-list {
+  position: relative;
+  left: 700px;
+  bottom: 510px;
+  font-size: 20px;
+  width: 350px;
+}
+
+.ingredients-list .title-ing {
+  text-align: left;
+}
+
+.ingredients-list .ingredients-class li {
+  text-align: left;
+  list-style: disc;
+  padding: 10px 0px;
+}
+
+.steps-steps {
+  position: absolute;
+  left: 1100px;
+  bottom: 1030px;
+  width: 750px;
+  font-size: 20px;
+}
+
+.steps-steps,
+.title-steps,
+ol li {
+  position: relative;
+  text-align: left;
+  padding: 10px 0px;
+  list-style: lower-roman;
+}
+
+.steps-steps1 {
+  position: absolute;
+  left: 1100px;
+  bottom: 35px;
+  width: 750px;
+  font-size: 20px;
+}
+
+.steps-steps2 {
+  position: absolute;
+  left: 1100px;
+  bottom: 480px;
+  width: 750px;
+  font-size: 20px;
+}
